@@ -14,4 +14,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- Uma página de evento com um temporizador para saber quanto tempo que falta para começar o evento.
+Uma página de evento com um temporizador para saber quanto tempo que falta para começar o evento.
