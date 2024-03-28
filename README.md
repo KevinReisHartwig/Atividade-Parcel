@@ -10,6 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS 
 - JavaScript
 - Parcel
+- Biblioteca AOS
 
 
 ## 💻 Projeto
